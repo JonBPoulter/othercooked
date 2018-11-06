@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\johnn\.Rider2018.2\config\extensions" t="IncludeRecursive" />
-    <e p="C:\Users\johnn\.Rider2018.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\johnn\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_othercooked.1723490950.00" t="ExcludeRecursive" />
-    <e p="C:\Users\johnn\Documents\UnityProjects\InterDev\othercooked" t="IncludeRecursive">
+    <e p="C:\Users\jpmon\.Rider2018.2\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\jpmon\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\jpmon\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_othercooked.310120733.00" t="ExcludeRecursive" />
+    <e p="C:\Users\jpmon\Desktop\othercooked" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
-      <e p="Assets\Scripts" t="Include">
-        <e p="Item.cs" t="Include" />
-        <e p="Movement.cs" t="Include" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Item.cs" t="Include" />
+          <e p="Movement.cs" t="Include" />
+          <e p="Pickup.cs" t="Include" />
+        </e>
       </e>
       <e p="Library" t="ExcludeRecursive" />
       <e p="obj" t="ExcludeRecursive" />
